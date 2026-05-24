@@ -50,7 +50,7 @@ Tateti/
 ## ⚙️ Installation
 1. Clone the repository:
    ```bash
-   git clone git@github.com:SebaB29/TATETI.git
+   git clone git@github.com:SebaB29/tateti.git
    cd tateti
    ```
 
